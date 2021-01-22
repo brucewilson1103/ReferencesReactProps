@@ -1,5 +1,6 @@
 const contacts = [
   {
+    id: 1,
     name: "The Rock",
     imgURL:
       "https://www.maxim.com/.image/c_limit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_700/MTU3ODY0MzkxNDY1NzcyMzYx/dwayne-the-rock-johnson-promo.jpg",
@@ -8,6 +9,7 @@ const contacts = [
     testimony: '"Bruce is one guy that definietly knows his role of developer."'
   },
   {
+    id: 2,
     name: "Jesus",
     imgURL:
       "https://starsunfolded.com/wp-content/uploads/2018/09/Jesus-Christ.jpg",
@@ -17,6 +19,7 @@ const contacts = [
       '"Thou Bruce Almighty, one who is truly following his passion and talents."'
   },
   {
+    id: 3,
     name: "Chuck Norris",
     imgURL:
       "https://i.pinimg.com/originals/e3/94/47/e39447de921955826b1e498ccf9a39af.png",

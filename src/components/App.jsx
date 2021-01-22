@@ -6,6 +6,7 @@ import Avatar from "./Avatar";
 function newCard(contact) {
   return (
     <Card
+      key={contact.id}
       name={contact.name}
       img={contact.imgURL}
       tel={contact.phone}
