@@ -18,7 +18,6 @@ function App() {
           testimony={contact.testimony}
         />
       ))}
-      {(document.body.style.height = "100vh")}
       {document.body.addEventListener("mousemove", function (event) {
         let x = event.clientX;
         let y = event.clientY;
